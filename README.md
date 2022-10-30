@@ -1,4 +1,4 @@
 # CPP-Problem-Solutions
 
-Here your can find the solutions of Leet code Java Questions.
+Here your can find the solutions of CPP Questions.
 Read CONTRIBUTING.md for contribution.
